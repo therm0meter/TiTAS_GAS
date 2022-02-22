@@ -1,0 +1,9 @@
+{
+    "is_run_mode":"true",
+    "name":"AndroidAppUpdaterSample",
+    "uri_current":"com.therm0meter.titasgas",
+    "version_code_current":"2",
+    "version_code_min":"1",
+    "update_info":"Bugs Fixed",
+    "update_date":"23/02/2022"
+}
